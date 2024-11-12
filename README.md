@@ -1,7 +1,7 @@
 ## 👋 Hello, I'm Stephen Ruiz
 - 📰 An Engineering Educator
 - 🖥️ A Python coder primarily
-- 🔭 Currently working on a project ..
+- 🔭 Currently establishing significance in the web
 - 🐦 You can follow me on Twitter [@rslruiz](https://x.com/rslruiz) and
 - 👔 [LinkedIn](https://www.linkedin.com/in/r-stephen-ruiz-8302712b/)
   
