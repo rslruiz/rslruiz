@@ -1,7 +1,9 @@
 ## 👋 Hello, I'm Stephen Ruiz
-- 🖥️ I've been coding in Python
-- 🔭 Currently working on a project
-- 🐦 You can follow me on Twitter [@rslruiz](https://x.com/rslruiz)
+- 📰 An Engineering Educator
+- 🖥️ A Python coder primarily
+- 🔭 Currently working on a project ..
+- 🐦 You can follow me on Twitter [@rslruiz](https://x.com/rslruiz) and [LinkedIn](https://www.linkedin.com/in/r-stephen-ruiz-8302712b/)
+  
 
 <!--
 **rslruiz/rslruiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
