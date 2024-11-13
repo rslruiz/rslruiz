@@ -1,4 +1,4 @@
-## 👋 Hello, I'm Stephen Ruiz
+## 👋 Hello, I am Stephen Ruiz
 - 📰 An Engineering Educator
 - 🖥️ A Python coder primarily
 - 🔭 Currently establishing significance in the web
